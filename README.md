@@ -20,7 +20,6 @@
 
 < torvalds >
 
-
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
