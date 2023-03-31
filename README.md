@@ -18,61 +18,62 @@
 <Worldwide🌍>
 
 
-<1>
+< torvalds >
+
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
 
-<2>
+< yyx990803 >
 
 <img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
-<3>
+< gaearon >
 
 <img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
 
-<4>
+< ruanyf >
 
 <img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
-<5>
+< JakeWharton >
 
 <img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
-<6>
+<tj>
 
 <img src="https://avatars.githubusercontent.com/u/25254?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
 
-<7>
+< addyosmani >
 
 <img src="https://avatars.githubusercontent.com/u/110953?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/addyosmani?style=flat&label=FOLLOWERS)
 
-<8>
+< paulirish >
 
 <img src="https://avatars.githubusercontent.com/u/39191?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/paulirish?style=flat&label=FOLLOWERS)
 
-<9>
+< wesbos >
 
 <img src="https://avatars.githubusercontent.com/u/176013?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/wesbos?style=flat&label=FOLLOWERS)
 
-<10>
+< benawad >
 
 <img src="https://avatars.githubusercontent.com/u/7872329?v=4" alt="side Image" align="center" width="114" height="auto" />
 
