@@ -27,29 +27,23 @@ Most Followers On GitHub In Worldwide 🌍 &amp; India 🇮🇳
 
 2.
 
+<img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="100" height="auto" />
 
-<img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
 3.
 
+<img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="100" height="auto" />
 
-<img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
-
+![GitHub followers](https://img.shields.io/github/followers/dan?style=flat&label=FOLLOWERS)
 
 4.
 
+<img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="100" height="auto" />
 
-<img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
-
+![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
 5.
-
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
@@ -57,38 +51,29 @@ Most Followers On GitHub In Worldwide 🌍 &amp; India 🇮🇳
 
 6.
 
-
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
-
 
 7.
 
-
-
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
-
 
 8.
 
-
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
 
-
 9.
-
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
 
 10.
-
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="100" height="auto" />
 
