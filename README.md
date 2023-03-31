@@ -1,5 +1,4 @@
 # Most-Followers-On-GitHub-
-Most Followers On GitHub In Worldwide 🌍 &amp; India 🇮🇳
 
 
 <h3 align="center">
@@ -19,61 +18,61 @@ Most Followers On GitHub In Worldwide 🌍 &amp; India 🇮🇳
 <Worldwide🌍>
 
 
-1.
+<1>
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
 
-2.
+<2>
 
 <img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
-3.
+<3>
 
 <img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
 
-4.
+<4>
 
 <img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
-5.
+<5>
 
 <img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
-6.
+<6>
 
 <img src="https://avatars.githubusercontent.com/u/25254?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
 
-7.
+<7>
 
 <img src="https://avatars.githubusercontent.com/u/110953?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/addyosmani?style=flat&label=FOLLOWERS)
 
-8.
+<8>
 
 <img src="https://avatars.githubusercontent.com/u/39191?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/paulirish?style=flat&label=FOLLOWERS)
 
-9.
+<9>
 
 <img src="https://avatars.githubusercontent.com/u/176013?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/wesbos?style=flat&label=FOLLOWERS)
 
-10.
+<10>
 
 <img src="https://avatars.githubusercontent.com/u/7872329?v=4" alt="side Image" align="center" width="114" height="auto" />
 
