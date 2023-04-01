@@ -87,17 +87,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
 
+< in28minutes >
+
+<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/OZ68aUomQOWV96EA3kI3" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/in28minutes?style=flat&label=FOLLOWERS)
+
 < gopinav >
 
 <img src="https://avatars.githubusercontent.com/u/13146172?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gopinav?style=flat&label=FOLLOWERS)
-
-< krishnaik06 >
-
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
 
 < krishnaik06 >
 
