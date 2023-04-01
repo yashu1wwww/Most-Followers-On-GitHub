@@ -60,22 +60,22 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
-<tj>
+< gustavoguanabara >
+
+<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
+
+< sindresorhus >
+
+<img src="https://archive.org/download/github.com-sindresorhus-awesome-nodejs_-_2017-06-14_18-42-22/cover.jpg" alt="side Image" align="center" width="150" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
+
+< tj >
 
 <img src="https://avatars.githubusercontent.com/u/25254?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
-
-< addyosmani >
-
-<img src="https://avatars.githubusercontent.com/u/110953?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/addyosmani?style=flat&label=FOLLOWERS)
-
-< paulirish >
-
-<img src="https://avatars.githubusercontent.com/u/39191?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/paulirish?style=flat&label=FOLLOWERS)
 
 
