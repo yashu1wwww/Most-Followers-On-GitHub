@@ -79,7 +79,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
 
 
-< 𝙄𝙣𝙙𝙞𝙖 >
+< 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
   
 < krishnaik06 >
 
@@ -141,7 +141,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ValentineFernandes?style=flat&label=FOLLOWERS)
 
-< Any Information Wrong Measns! Fork It >
+< Any Information Wrong! Fork It >
 
 
 
