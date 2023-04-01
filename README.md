@@ -56,9 +56,9 @@
 
 < bradtraversy >
 
-<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://archive.org/download/github.com-bradtraversy-50projects50days_-_2021-07-05_12-38-50/cover.jpg" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
 <tj>
 
