@@ -42,7 +42,19 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
+< peng-zhihui >
+
+<img src="https://avatars.githubusercontent.com/u/12994887?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/peng-zhihui?style=flat&label=FOLLOWERS)
+
 < JakeWharton >
+
+<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
+
+< bradtraversy >
 
 <img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
 
@@ -66,15 +78,4 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/paulirish?style=flat&label=FOLLOWERS)
 
-< wesbos >
-
-<img src="https://avatars.githubusercontent.com/u/176013?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/wesbos?style=flat&label=FOLLOWERS)
-
-< benawad >
-
-<img src="https://avatars.githubusercontent.com/u/7872329?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/benawad?style=flat&label=FOLLOWERS)
 
