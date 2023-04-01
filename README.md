@@ -111,6 +111,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
 
+< amitshekhariitbhu >
+
+<img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
+
 < noob-hackers >
 
 <img src="https://avatars.githubusercontent.com/u/49580304?v=4" alt="side Image" align="center" width="114" height="auto" />
@@ -123,23 +129,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/s0md3v?style=flat&label=FOLLOWERS)
 
-< amitshekhariitbhu >
+< vivekweb2013 >
 
-<img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/7036736?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/vivekweb2013?style=flat&label=FOLLOWERS)
 
-< krishnaik06 >
+< ValentineFernandes >
 
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/98638443?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
-
-< krishnaik06 >
-
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/ValentineFernandes?style=flat&label=FOLLOWERS)
 
 
 
