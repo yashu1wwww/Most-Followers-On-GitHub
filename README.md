@@ -78,4 +78,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
 
+<India>
+  
+  
+< krishnaik06 >
+
+<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
+
+  
+  
+
 
