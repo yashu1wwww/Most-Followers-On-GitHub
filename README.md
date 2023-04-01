@@ -99,17 +99,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gopinav?style=flat&label=FOLLOWERS)
 
-< krishnaik06 >
+< iampawan >
 
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/iampawan?style=flat&label=FOLLOWERS)
 
-< krishnaik06 >
+< anuraghazra >
 
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/35374649?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
 
 < krishnaik06 >
 
