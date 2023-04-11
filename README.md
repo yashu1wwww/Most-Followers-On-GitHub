@@ -68,7 +68,7 @@
 
 < sindresorhus >
 
-<img src="https://archive.org/download/github.com-sindresorhus-awesome-nodejs_-_2017-06-14_18-42-22/cover.jpg" alt="side Image" align="center" width="150" height="auto" />
+<img src="https://archive.org/download/github.com-sindresorhus-awesome-nodejs_-_2017-06-14_18-42-22/cover.jpg" alt="side Image" align="center" width="135" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
 
@@ -80,7 +80,13 @@
 
 
 < 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
-  
+
+< The Algorithms >
+
+<img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="side Image" align="center" width="109" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/TheAlgorithms?style=flat&label=FOLLOWERS)
+
 < krishnaik06 >
 
 <img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
@@ -134,12 +140,6 @@
 <img src="https://avatars.githubusercontent.com/u/7036736?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/vivekweb2013?style=flat&label=FOLLOWERS)
-
-< ValentineFernandes >
-
-<img src="https://avatars.githubusercontent.com/u/98638443?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/ValentineFernandes?style=flat&label=FOLLOWERS)
 
 < Any Information Wrong! Fork It >
 
