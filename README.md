@@ -141,7 +141,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/vivekweb2013?style=flat&label=FOLLOWERS)
 
-< Any Information Wrong! Fork It >
+< If there is any incorrect information, please fork it >
 
 
 
