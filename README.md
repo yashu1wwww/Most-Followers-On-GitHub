@@ -95,7 +95,7 @@
 
 < in28minutes >
 
-<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/OZ68aUomQOWV96EA3kI3" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/14139137?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/in28minutes?style=flat&label=FOLLOWERS)
 
