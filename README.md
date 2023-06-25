@@ -18,61 +18,61 @@
 <𝙒𝙤𝙧𝙡𝙙𝙬𝙞𝙙𝙚🌍>
 
 
-< torvalds >
+< [torvalds](https://github.com/torvalds) >
 
 <img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
 
-< yyx990803 >
+< [yyx990803](https://github.com/yyx990803) >
 
 <img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
-< gaearon >
+< [gaearon](https://github.com/gaearon) >
 
 <img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
 
-< ruanyf >
+< [ruanyf](https://github.com/ruanyf) >
 
 <img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
-< peng-zhihui >
+< [peng-zhihui](https://github.com/peng-zhihui) >
 
 <img src="https://avatars.githubusercontent.com/u/12994887?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/peng-zhihui?style=flat&label=FOLLOWERS)
 
-< JakeWharton >
+< [JakeWharton](https://github.com/JakeWharton) >
 
 <img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
-< bradtraversy >
+< [bradtraversy](https://github.com/bradtraversy) >
 
 <img src="https://archive.org/download/github.com-bradtraversy-50projects50days_-_2021-07-05_12-38-50/cover.jpg" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
-< gustavoguanabara >
+< [gustavoguanabara](https://github.com/gustavoguanabara) >
 
 <img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
 
-< sindresorhus >
+< [sindresorhus](https://github.com/sindresorhus) >
 
 <img src="https://archive.org/download/github.com-sindresorhus-awesome-nodejs_-_2017-06-14_18-42-22/cover.jpg" alt="side Image" align="center" width="135" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
 
-< tj >
+< [tj](https://github.com/tj) >
 
 <img src="https://avatars.githubusercontent.com/u/25254?v=4" alt="side Image" align="center" width="114" height="auto" />
 
@@ -81,61 +81,61 @@
 
 < 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
 
-< The Algorithms >
+< [The Algorithms](https://github.com/TheAlgorithms) >
 
 <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="side Image" align="center" width="109" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/TheAlgorithms?style=flat&label=FOLLOWERS)
 
-< krishnaik06 >
+< [krishnaik06](https://github.com/krishnaik06) >
 
 <img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
 
-< in28minutes >
+< [in28minutes](https://github.com/in28minutes) >
 
 <img src="https://avatars.githubusercontent.com/u/14139137?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/in28minutes?style=flat&label=FOLLOWERS)
 
-< gopinav >
+< [gopinav](https://github.com/gopinav) >
 
 <img src="https://avatars.githubusercontent.com/u/13146172?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gopinav?style=flat&label=FOLLOWERS)
 
-< iampawan >
+< [iampawan](https://github.com/iampawan) >
 
 <img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/iampawan?style=flat&label=FOLLOWERS)
 
-< anuraghazra >
+< [anuraghazra](https://github.com/anuraghazra) >
 
 <img src="https://avatars.githubusercontent.com/u/35374649?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
 
-< amitshekhariitbhu >
+< [amitshekhariitbhu](https://github.com/amitshekhariitbhu) >
 
 <img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
 
-< noob-hackers >
+< [noob-hackers](https://github.com/noob-hackers) >
 
 <img src="https://avatars.githubusercontent.com/u/49580304?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/noob-hackers?style=flat&label=FOLLOWERS)
 
-< s0md3v >
+< [s0md3v](s0md3v) >
 
 <img src="https://avatars.githubusercontent.com/u/26716802?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/s0md3v?style=flat&label=FOLLOWERS)
 
-< vivekweb2013 >
+< [vivekweb2013](https://github.com/vivekweb2013) >
 
 <img src="https://avatars.githubusercontent.com/u/7036736?v=4" alt="side Image" align="center" width="114" height="auto" />
 
