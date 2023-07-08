@@ -48,11 +48,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/peng-zhihui?style=flat&label=FOLLOWERS)
 
-< JakeWharton >
+< gustavoguanabara >
 
-<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
 
 < bradtraversy >
 
@@ -60,11 +60,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
-< gustavoguanabara >
+< JakeWharton >
 
-<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
 < sindresorhus >
 
