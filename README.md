@@ -123,17 +123,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/noob-hackers?style=flat&label=FOLLOWERS)
 
-< [amitshekhariitbhu](https://github.com/amitshekhariitbhu) >
-
-<img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
-
 < [s0md3v](s0md3v) >
 
 <img src="https://avatars.githubusercontent.com/u/26716802?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/s0md3v?style=flat&label=FOLLOWERS)
+
+< [amitshekhariitbhu](https://github.com/amitshekhariitbhu) >
+
+<img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
 
 < [vivekweb2013](https://github.com/vivekweb2013) >
 
