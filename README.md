@@ -66,17 +66,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
+< [openai](https://github.com/openai) >
+
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="135" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
+
 < [sindresorhus](https://github.com/sindresorhus) >
 
-<img src="https://archive.org/download/github.com-sindresorhus-awesome-nodejs_-_2017-06-14_18-42-22/cover.jpg" alt="side Image" align="center" width="135" height="auto" />
+<img src="https://camo.githubusercontent.com/cd68b86c80d9fc83dd7f7d0c7c1b71015470b885e3765ceb1b18e58195e0423d/68747470733a2f2f617263686976652e6f72672f646f776e6c6f61642f6769746875622e636f6d2d73696e647265736f726875732d617765736f6d652d6e6f64656a735f2d5f323031372d30362d31345f31382d34322d32322f636f7665722e6a7067" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
-
-< [tj](https://github.com/tj) >
-
-<img src="https://avatars.githubusercontent.com/u/25254?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/tj?style=flat&label=FOLLOWERS)
 
 
 < 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
