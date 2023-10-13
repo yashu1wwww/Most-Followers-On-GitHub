@@ -123,6 +123,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/noob-hackers?style=flat&label=FOLLOWERS)
 
+< [hiteshchoudhary](https://github.com/hiteshchoudhary) >
+
+<img src="https://avatars.githubusercontent.com/u/11613311?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/hiteshchoudhary?style=flat&label=FOLLOWERS)
+
 < [s0md3v](s0md3v) >
 
 <img src="https://avatars.githubusercontent.com/u/26716802?v=4" alt="side Image" align="center" width="114" height="auto" />
@@ -134,12 +140,6 @@
 <img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
-
-< [vivekweb2013](https://github.com/vivekweb2013) >
-
-<img src="https://avatars.githubusercontent.com/u/7036736?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/vivekweb2013?style=flat&label=FOLLOWERS)
 
  < If there is any incorrect information, please fork it >
 
