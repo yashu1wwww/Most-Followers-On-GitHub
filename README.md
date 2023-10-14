@@ -68,7 +68,7 @@
 
 < [openai](https://github.com/openai) >
 
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="135" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
 
