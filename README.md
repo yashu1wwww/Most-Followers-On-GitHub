@@ -60,17 +60,18 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
-< [JakeWharton](https://github.com/JakeWharton) >
-
-<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
 < [openai](https://github.com/openai) >
 
 <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
+
+< [JakeWharton](https://github.com/JakeWharton) >
+
+<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
 < [sindresorhus](https://github.com/sindresorhus) >
 
@@ -105,17 +106,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gopinav?style=flat&label=FOLLOWERS)
 
-< [iampawan](https://github.com/iampawan) >
-
-<img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/iampawan?style=flat&label=FOLLOWERS)
-
 < [anuraghazra](https://github.com/anuraghazra) >
 
 <img src="https://avatars.githubusercontent.com/u/35374649?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
+
+< [iampawan](https://github.com/iampawan) >
+
+<img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/iampawan?style=flat&label=FOLLOWERS)
 
 < [hiteshchoudhary](https://github.com/hiteshchoudhary) >
 
@@ -129,7 +130,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/noob-hackers?style=flat&label=FOLLOWERS)
 
-< [s0md3v](s0md3v) >
+< [s0md3v](https://github.com/s0md3v) >
 
 <img src="https://avatars.githubusercontent.com/u/26716802?v=4" alt="side Image" align="center" width="114" height="auto" />
 
