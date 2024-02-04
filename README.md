@@ -36,17 +36,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
 
-< [ruanyf](https://github.com/ruanyf) >
-
-<img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
-
 < [gustavoguanabara](https://github.com/gustavoguanabara) >
 
 <img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
+
+< [ruanyf](https://github.com/ruanyf) >
+
+<img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
 
 < [peng-zhihui](https://github.com/peng-zhihui) >
 
