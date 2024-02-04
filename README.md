@@ -93,6 +93,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
 
+< [hiteshchoudhary](https://github.com/hiteshchoudhary) >
+
+<img src="https://avatars.githubusercontent.com/u/11613311?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/hiteshchoudhary?style=flat&label=FOLLOWERS)
+
 < [in28minutes](https://github.com/in28minutes) >
 
 <img src="https://avatars.githubusercontent.com/u/14139137?v=4" alt="side Image" align="center" width="114" height="auto" />
@@ -110,12 +116,6 @@
 <img src="https://avatars.githubusercontent.com/u/35374649?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
-
-< [hiteshchoudhary](https://github.com/hiteshchoudhary) >
-
-<img src="https://avatars.githubusercontent.com/u/11613311?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/hiteshchoudhary?style=flat&label=FOLLOWERS)
 
 < [iampawan](https://github.com/iampawan) >
 
