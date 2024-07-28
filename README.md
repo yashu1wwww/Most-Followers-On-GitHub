@@ -30,17 +30,23 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
 
+< [gustavoguanabara](https://github.com/gustavoguanabara) >
+
+<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
+
 < [gaearon](https://github.com/gaearon) >
 
 <img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
 
-< [gustavoguanabara](https://github.com/gustavoguanabara) >
+< [openai](https://github.com/openai) >
 
-<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="114" height="auto" />
 
-![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
 
 < [ruanyf](https://github.com/ruanyf) >
 
@@ -54,29 +60,23 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/peng-zhihui?style=flat&label=FOLLOWERS)
 
-< [openai](https://github.com/openai) >
-
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
-
 < [bradtraversy](https://github.com/bradtraversy) >
 
 <img src="https://archive.org/download/github.com-bradtraversy-50projects50days_-_2021-07-05_12-38-50/cover.jpg" alt="side Image" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
 
-< [JakeWharton](https://github.com/JakeWharton) >
-
-<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
-
 < [sindresorhus](https://github.com/sindresorhus) >
 
 <img src="https://avatars.githubusercontent.com/u/170270?v=4" align="center" width="114" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
+
+< [JakeWharton](https://github.com/JakeWharton) >
+
+<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
+
+![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
 
 < 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
