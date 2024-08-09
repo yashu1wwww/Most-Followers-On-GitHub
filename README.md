@@ -17,6 +17,25 @@
 
 <𝙒𝙤𝙧𝙡𝙙𝙬𝙞𝙙𝙚🌍>
 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+</br> 
+
 
 < [torvalds](https://github.com/torvalds) >
 
