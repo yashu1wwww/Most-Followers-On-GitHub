@@ -19,83 +19,29 @@
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=yyx990803&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yyx990803 "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=gustavoguanabara&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gustavoguanabara "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=torvalds&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/torvalds "Stats")
-</br> 
-
-
-< [torvalds](https://github.com/torvalds) >
-
-<img src="https://avatars.githubusercontent.com/u/1024025?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/torvalds?style=flat&label=FOLLOWERS)
-
-< [yyx990803](https://github.com/yyx990803) >
-
-<img src="https://avatars.githubusercontent.com/u/499550?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/yyx990803?style=flat&label=FOLLOWERS)
-
-< [gustavoguanabara](https://github.com/gustavoguanabara) >
-
-<img src="https://pbs.twimg.com/profile_images/961605799830347776/Oy9Amu3w_400x400.jpg" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/gustavoguanabara?style=flat&label=FOLLOWERS)
-
-< [gaearon](https://github.com/gaearon) >
-
-<img src="https://avatars.githubusercontent.com/u/810438?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/gaearon?style=flat&label=FOLLOWERS)
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=gaearon&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gaearon "Stats")
 
 < [openai](https://github.com/openai) >
 
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="114" height="auto" />
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="109" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
 
-< [ruanyf](https://github.com/ruanyf) >
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=ruanyf&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/ruanyf "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=peng-zhihui&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/peng-zhihui "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=bradtraversy&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/bradtraversy "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=sindresorhus&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/sindresorhus "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=JakeWharton&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/JakeWharton "Stats")
+</br> 
 
-<img src="https://avatars.githubusercontent.com/u/905434?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/ruanyf?style=flat&label=FOLLOWERS)
-
-< [peng-zhihui](https://github.com/peng-zhihui) >
-
-<img src="https://avatars.githubusercontent.com/u/12994887?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/peng-zhihui?style=flat&label=FOLLOWERS)
-
-< [bradtraversy](https://github.com/bradtraversy) >
-
-<img src="https://archive.org/download/github.com-bradtraversy-50projects50days_-_2021-07-05_12-38-50/cover.jpg" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/bradtraversy?style=flat&label=FOLLOWERS)
-
-< [sindresorhus](https://github.com/sindresorhus) >
-
-<img src="https://avatars.githubusercontent.com/u/170270?v=4" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/sindresorhus?style=flat&label=FOLLOWERS)
-
-< [JakeWharton](https://github.com/JakeWharton) >
-
-<img src="https://avatars.githubusercontent.com/u/66577?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/JakeWharton?style=flat&label=FOLLOWERS)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
