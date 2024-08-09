@@ -48,68 +48,32 @@
 
 < 𝙄𝙣𝙙𝙞𝙖 🇮🇳 >
 
-< [The Algorithms](https://github.com/TheAlgorithms) >
+< [TheAlgorithms](https://github.com/TheAlgorithms) >
 
 <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="side Image" align="center" width="109" height="auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/TheAlgorithms?style=flat&label=FOLLOWERS)
 
-< [krishnaik06](https://github.com/krishnaik06) >
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=krishnaik06&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/krishnaik06 "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=hiteshchoudhary&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/hiteshchoudhary "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=in28minutes&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/in28minutes "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=gopinav&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gopinav "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=anuraghazra&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/anuraghazra "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=iampawan&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iampawan "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=noob-hackers&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/noob-hackers "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=s0md3v&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/s0md3v"Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=amitshekhariitbhu&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/amitshekhariitbhu "Stats")
+</br> 
 
-<img src="https://avatars.githubusercontent.com/u/20041231?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/krishnaik06?style=flat&label=FOLLOWERS)
-
-< [hiteshchoudhary](https://github.com/hiteshchoudhary) >
-
-<img src="https://avatars.githubusercontent.com/u/11613311?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/hiteshchoudhary?style=flat&label=FOLLOWERS)
-
-< [in28minutes](https://github.com/in28minutes) >
-
-<img src="https://avatars.githubusercontent.com/u/14139137?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/in28minutes?style=flat&label=FOLLOWERS)
-
-< [gopinav](https://github.com/gopinav) >
-
-<img src="https://avatars.githubusercontent.com/u/13146172?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/gopinav?style=flat&label=FOLLOWERS)
-
-< [anuraghazra](https://github.com/anuraghazra) >
-
-<img src="https://avatars.githubusercontent.com/u/35374649?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/anuraghazra?style=flat&label=FOLLOWERS)
-
-< [iampawan](https://github.com/iampawan) >
-
-<img src="https://avatars.githubusercontent.com/u/12619420?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/iampawan?style=flat&label=FOLLOWERS)
-
-< [noob-hackers](https://github.com/noob-hackers) >
-
-<img src="https://avatars.githubusercontent.com/u/49580304?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/noob-hackers?style=flat&label=FOLLOWERS)
-
-< [s0md3v](https://github.com/s0md3v) >
-
-<img src="https://avatars.githubusercontent.com/u/26716802?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/s0md3v?style=flat&label=FOLLOWERS)
-
-< [amitshekhariitbhu](https://github.com/amitshekhariitbhu) >
-
-<img src="https://avatars.githubusercontent.com/u/9877145?v=4" alt="side Image" align="center" width="114" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/amitshekhariitbhu?style=flat&label=FOLLOWERS)
-
-
- < If there is any incorrect information, please fork it >
+< If there is any incorrect information, please fork it >
   
  For Most Starred & Forked Github Repository List 👇
 
