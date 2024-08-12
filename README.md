@@ -27,9 +27,7 @@
 
 < [openai](https://github.com/openai) >
 
-<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="side Image" align="center" width="109" height="auto" />
-
-![GitHub followers](https://img.shields.io/github/followers/openai?style=flat&label=FOLLOWERS)
+![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dopenai&longCache=true)
 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=ruanyf&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/ruanyf "Stats")
 </br> 
