@@ -54,20 +54,19 @@
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=hiteshchoudhary&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/hiteshchoudhary "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=in28minutes&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/in28minutes "Stats")
-</br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=gopinav&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gopinav "Stats")
 </br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=in28minutes&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/in28minutes "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=iam-veeramalla&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iam-veeramalla "Stats")
+</br>
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=anuraghazra&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/anuraghazra "Stats")
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=iampawan&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iampawan "Stats")
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=noob-hackers&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/noob-hackers "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=s0md3v&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/s0md3v"Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=amitshekhariitbhu&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/amitshekhariitbhu "Stats")
-</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=knadh&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/knadh "Stats")
 
 < If there is any incorrect information, please fork it >
   
