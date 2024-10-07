@@ -50,16 +50,16 @@
 
 ![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTheAlgorithms&longCache=true)
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=krishnaik06&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/krishnaik06 "Stats")
-</br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=hiteshchoudhary&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/hiteshchoudhary "Stats")
 </br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=krishnaik06&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/krishnaik06 "Stats")
+</br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=iam-veeramalla&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iam-veeramalla "Stats")
+</br>
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=gopinav&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gopinav "Stats")
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=in28minutes&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/in28minutes "Stats")
 </br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=iam-veeramalla&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iam-veeramalla "Stats")
-</br>
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=anuraghazra&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/anuraghazra "Stats")
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=iampawan&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/iampawan "Stats")
