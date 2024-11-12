@@ -69,8 +69,6 @@
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=knadh&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/knadh "Stats")
 
 < If there is any incorrect information, please fork it >
-  
- For Most Starred & Forked Github Repository List 👇
 
   [Most Starred & Forked Repository](https://github.com/yashu1wwww/Most-Starred-And-Forked-GitHub-Repositories) 
  
