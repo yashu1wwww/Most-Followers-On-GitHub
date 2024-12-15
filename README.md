@@ -23,6 +23,8 @@
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=gustavoguanabara&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gustavoguanabara "Stats")
 </br> 
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=karpathy&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/karpathy "Stats")
+</br>
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=gaearon&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/gaearon "Stats")
 
 < [openai](https://github.com/openai) >
@@ -36,11 +38,6 @@
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=bradtraversy&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/bradtraversy "Stats")
 </br> 
 [![Stats](https://github-stats-alpha.vercel.app/api/?username=sindresorhus&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/sindresorhus "Stats")
-</br> 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=JakeWharton&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/JakeWharton "Stats")
-</br> 
-
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
